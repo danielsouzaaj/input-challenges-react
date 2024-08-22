@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/input-challenges/static/css/main.546eb750.css",
-    "main.js": "/input-challenges/static/js/main.19e23f79.js",
-    "index.html": "/input-challenges/index.html",
-    "main.546eb750.css.map": "/input-challenges/static/css/main.546eb750.css.map",
-    "main.19e23f79.js.map": "/input-challenges/static/js/main.19e23f79.js.map"
+    "main.css": "/input-challenges-react/static/css/main.546eb750.css",
+    "main.js": "/input-challenges-react/static/js/main.19e23f79.js",
+    "index.html": "/input-challenges-react/index.html",
+    "main.546eb750.css.map": "/input-challenges-react/static/css/main.546eb750.css.map",
+    "main.19e23f79.js.map": "/input-challenges-react/static/js/main.19e23f79.js.map"
   },
   "entrypoints": [
     "static/css/main.546eb750.css",
