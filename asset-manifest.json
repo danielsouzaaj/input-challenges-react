@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/input-challenges-react/static/css/main.546eb750.css",
-    "main.js": "/input-challenges-react/static/js/main.19e23f79.js",
+    "main.css": "/input-challenges-react/static/css/main.7288f7c3.css",
+    "main.js": "/input-challenges-react/static/js/main.37692012.js",
+    "static/media/mini-bio-preview.png": "/input-challenges-react/static/media/mini-bio-preview.1a12344f81649b5989ca.png",
+    "static/media/arrow-up-right-from-square-solid.svg": "/input-challenges-react/static/media/arrow-up-right-from-square-solid.3e41d330e537b63d30576a4a41031373.svg",
     "index.html": "/input-challenges-react/index.html",
-    "main.546eb750.css.map": "/input-challenges-react/static/css/main.546eb750.css.map",
-    "main.19e23f79.js.map": "/input-challenges-react/static/js/main.19e23f79.js.map"
+    "main.7288f7c3.css.map": "/input-challenges-react/static/css/main.7288f7c3.css.map",
+    "main.37692012.js.map": "/input-challenges-react/static/js/main.37692012.js.map"
   },
   "entrypoints": [
-    "static/css/main.546eb750.css",
-    "static/js/main.19e23f79.js"
+    "static/css/main.7288f7c3.css",
+    "static/js/main.37692012.js"
   ]
 }
