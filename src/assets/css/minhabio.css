@@ -1,0 +1,45 @@
+.mini-bio-wrapper {
+    background-color: #B81D24;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bio {
+    background-color: #221F1F;
+    border-radius: 0.5rem;
+    box-shadow: rgba(34, 31, 31, .6) 0px 7px 29px 0px;
+    color: #F5F5F1;
+    line-height: 1.5;
+    max-width: 20rem;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.bio-name {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.bio-image {
+    max-width: 7.5rem;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.bio-desc {
+    margin: 1rem 0;
+}
+
+.bio-list {
+    list-style: none;
+}
+
+.bio-list li a {
+    color: #959589;
+    font-weight: 600;
+}
+
+.bio-list li a:hover {
+    color: #B81D24;
+}
