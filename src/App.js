@@ -1,13 +1,8 @@
-import Project from './components/Project'
+import RoutesApp from './routes'
 
 function App() {
   return (
-    <div className="App">
-      <h1>Input Challenges React</h1>
-      <section className='card-container'>
-        <Project title="Teste" tags={['html', 'css']} />
-      </section>
-    </div>
+    <RoutesApp />
   );
 }
 
